@@ -1,5 +1,5 @@
 ---
-logo: /assets/img/logo-research.png
+logo: /assets/img/logo-research_medium.png
 ---
 
 # Welcome to my research
