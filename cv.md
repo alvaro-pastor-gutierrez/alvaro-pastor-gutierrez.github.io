@@ -1,6 +1,6 @@
 ---
-logo: /assets/img/favicon.png
 logo: /assets/img/logo-research_medium.png
+logo: /assets/img/favicon.png
 --- 
 
 ## Curriculum Vitae
