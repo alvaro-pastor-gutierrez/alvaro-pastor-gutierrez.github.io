@@ -28,10 +28,14 @@
           <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
         </h1>
 
-        {% if site.logo %}
+        {% if page.logo %}
+          <img src="{{ page.logo | relative_url }}" alt="Logo" />
+        {% elsif site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
+
+        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <!--
