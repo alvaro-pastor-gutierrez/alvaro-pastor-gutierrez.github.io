@@ -32,13 +32,6 @@
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
-        <nav class="top-right-nav">
-          <ul>
-            <li><a href="/cv.html">CV</a></li>
-            <li><a href="/research.html">Research</a></li>
-          </ul>
-        </nav>
-
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <!--
@@ -70,6 +63,12 @@
         -->
       </header>
       <section>
+        <nav class="body-top-right-nav">
+          <ul>
+            <li><a href="/cv.html">CV</a></li>
+            <li><a href="/research.html">Research</a></li>
+          </ul>
+        </nav>
         {{ content }}
       </section>
       <footer>
