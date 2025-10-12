@@ -1,4 +1,4 @@
-# Welcome to my CV
+## Curriculum Vitae
 
 Work in progress
 
