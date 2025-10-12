@@ -3,6 +3,13 @@
 
 @import "jekyll-theme-minimal";
 
+
+/* Example: Hide sidebar when #pdf-frame is visible */
+#pdf-frame:visible ~ #sidebar {
+  display: none;
+}
+
+
 section {
   position: relative;
   padding-top: 60px;
