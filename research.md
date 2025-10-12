@@ -1,4 +1,4 @@
-# Welcome to my CV
+# Welcome to my research
 
 Work in progress
 
