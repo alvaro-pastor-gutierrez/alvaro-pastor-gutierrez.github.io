@@ -1,6 +1,6 @@
 title: <h1>Álvaro <br> Pastor Gutiérrez</h1>
 logo: /assets/img/logo.png
 # description: Academic portfolio
-# show_downloads: true
-# google_analytics:
-# theme: jekyll-theme-minimal
+ show_downloads: true
+ google_analytics: G-T8GP66BV57
+ theme: jekyll-theme-minimal
