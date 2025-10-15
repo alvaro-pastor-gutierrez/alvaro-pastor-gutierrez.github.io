@@ -5,4 +5,4 @@ I am currently a **Special Postdoctoral Researcher** at the <a href="https://ith
 
 You can reach me at **alvaro.pastor (at) riken.jp**.
 
-An up to date list of publications can be found in <a href="https://inspirehep.net/authors/1818803" target="_blank" rel="noopener">inSPIRE</a>. 
+An up to date list of publications can be found <a href="https://inspirehep.net/authors/1818803" target="_blank" rel="noopener">here</a>. 
